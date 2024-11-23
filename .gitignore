@@ -4,8 +4,6 @@
 # Build
 /build/
 
-# Composer
-/vendor/
 
 # Deploy
 /deploy/
